@@ -12,7 +12,7 @@ Este portafolio contiene una selección de proyectos profesionales y personales 
 
 ## Proyectos incluidos
 
-- [Proyecto 1 – Controlador para aires acondicionados](./Proyecto1_Titulo)
+- [Proyecto 1 – Controlador para aires acondicionados](./Proyecto1_Controller-For-Air-Conditioners)
 - [Proyecto 2 – IMU para control de perforador en mina](./Proyecto3_Titulo)
 - [Proyecto 3 – Armado de carcasa para equipo electrónico](./Proyecto4_Titulo)
 - [Proyecto 4 – Modulos para clases de ingeniería](./Proyecto2_Titulo)
