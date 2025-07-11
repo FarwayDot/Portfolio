@@ -1,47 +1,44 @@
-# Proyecto 1: Controlador para aires acondicionados
+# Proyecto 4: Tarjetas modulares para clases de microcontroladores
 
 ## Descripción general
-Diseño y fabricación de PCBs para el control de aires acondicionados con la finalidad de ahorrar energía y mantener la supervisión de los equipos en la nube.
-El equipo de trabajo consiste un un programados y dos diseñadores electrónicos.
-Se piden dos diseños de PCBs con un tiempo total para entrega de 6 meses.
+Proyecto elaborado para el uso de tarjetas modulares dentro de las clases de ingeniería electrónica en la UTP.
+Los diseños se utilizan para apoyar a los docentes y estudiantes a lo largo de un curso completo en microcontroladores.
+Se crean ejercicios base para utilizar en conjunto con las tarjetas apoyados con una interfaz de usuario.
 
 ## Aporte
-Los aportes realizados en el presente proyecto son los siguientes:
--  Diseño de una de las dos PCBs siguientes características:
-	- Diseño de dos capas 
-	- Capacidad para alimentar a través de 220V AC y  48VDC con protección de sobrevoltaje y cortocircuito.
-	- Entradas digitales con un gran rango de voltaje para activación.
-	- Entradas analógicas para sensores de presión y temperatura.
-	- Salidas digitales de tipo relé.
-	- Leds indicadores para la fuente de voltaje, entradas y salidas digitales.
-	-  Borneras estándar tipo extraíbles.
-- Selección de componentes para disminuir los costos del producto final.
-- Pruebas físicas, capacidad energética y temperatura de hasta una semana de trabajo continuo.
-- Simulaciones y pruebas físicas antes de la fabricación de las tarjetas.
-- Redacción de manuales y documentación del proceso de fabricación.
-- Coordinación de reuniones para revisión de diseño.
+- Investigación de enfoques de diseño y temas usuales dentro del ámbito estudiantil.
+- Coordinación de reuniones.
+- Diseño de tarjetas bajo un enfoque modular con las siguientes características:
+	- Una tarjeta principal con el MCU para uso independiente.
+	- Tarjetas para abarcar los siguientes temas: entradas digitales, salidas digitales, señales analógicas, comunicación, display de datos, potencia, motores y más.
+	- Las tarjetas se conectan a través de cables flat fabricados localmente.
+- Preparación de entregables para la manufactura a través de JLCPCB.
+- Programación de ejercicios de prueba.
+- Elaboración de un plan de estudio.
+- Redacción de manuales.
 
 ## Herramientas de software utilizadas
 
-- **Diseño electrónico:** Altium designer.
-- **Simulaciones:** Tina TI, LT Spice, Matlab.
-- **Programación:** STMCubeIDE.
-- **Documentación**: Overleaf-Latex, Microsoft Word, Drawio. 
+- **Diseño electrónico:** Kicad .
+- **Simulaciones:** Proteus.
+- **Programación:** Microchip Studio.
+- **Documentación**: Microsoft Word, Power Point. 
 
 ## Dificultades
 
-- Rediseño de las entradas digitales para el rango de voltaje de activación deseado.
-- Tamaño de tarjeta limitado por espacio del tablero donde se realiza la instalación.
-- Cambios a mitad de proyecto por nuevos requerimientos, lo que provoca rediseñar y dimensionar la tarjeta.
-- Coordinación con proveedores de servicio.
+- Poco tiempo de entrega.
+- Investigación extensa de parte del equipo de trabajo.
+- Soldadura de componentes manualmente.
+- Documentación extensa por cada tarjeta.
+- Coordinación con estudiantes de ingeniería para pruebas.
 
 ## Fotos
 Layout del PCB
-
+![layout](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto4_Modular-PCBs/Modulo_Principal_Layout.png?raw=true)
 -
-Vista general de la tarjeta electrónica en Altium Designer
-
+Vista general de la targeta en Kicad
+![vista general mcu](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto4_Modular-PCBs/Modulo_Principal.png?raw=true)
 -
-Tarjetas ensambladas
-
+Total de tarjetas diseñadas
+![tarjetas](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto4_Modular-PCBs/TarjetasFisicas.png?raw=true)
 -
