@@ -37,11 +37,11 @@ Los aportes realizados en el presente proyecto son los siguientes:
 
 ## Fotos
 Layout del PCB
-![Layout](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto1_Controller-For-Air-Conditioners/Proyecto1_Controller-For-Air-Conditioners_TopViewLayout.png?raw=true)
+
 -
 Vista general de la tarjeta electrónica en Altium Designer
-![Vista general](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto1_Controller-For-Air-Conditioners/Proyecto1_Controller-For-Air-Conditioners_GeneralView.png?raw=true)
+
 -
 Tarjetas ensambladas
-![Vista genera físical](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto1_Controller-For-Air-Conditioners/Proyecto1_Controller-For-Air-Conditioners_TopViewFisico.jpeg?raw=true)
+
 -
