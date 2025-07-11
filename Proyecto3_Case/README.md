@@ -1,44 +1,37 @@
-# Proyecto 4: Tarjetas modulares para clases de microcontroladores
+# Proyecto 3: Diseño y fabricación de caja para PCBs
 
 ## Descripción general
-Proyecto elaborado para el uso de tarjetas modulares dentro de las clases de ingeniería electrónica en la UTP.
-Los diseños se utilizan para apoyar a los docentes y estudiantes a lo largo de un curso completo en microcontroladores.
-Se crean ejercicios base para utilizar en conjunto con las tarjetas apoyados con una interfaz de usuario.
+El proyecto consiste en modificar una caja (escogida por el cliente) para encajar una serie de tarjetas, pantalla y conectores. 
+Se debe entregar el producto modelado, costos de fabricación y documentación del proceso.
 
 ## Aporte
-- Investigación de enfoques de diseño y temas usuales dentro del ámbito estudiantil.
-- Coordinación de reuniones.
-- Diseño de tarjetas bajo un enfoque modular con las siguientes características:
-	- Una tarjeta principal con el MCU para uso independiente.
-	- Tarjetas para abarcar los siguientes temas: entradas digitales, salidas digitales, señales analógicas, comunicación, display de datos, potencia, motores y más.
-	- Las tarjetas se conectan a través de cables flat fabricados localmente.
-- Preparación de entregables para la manufactura a través de JLCPCB.
-- Programación de ejercicios de prueba.
-- Elaboración de un plan de estudio.
-- Redacción de manuales.
+- Modelar caja, conectores, pantalla y PCBs.
+- Cuadrar componentes para mostrar al cliente antes del ensamble y modificación de caja.
+- Investigar servicios de corte láser, grabado e impresión.
+- Taladrar, limar y cortar secciones de la caja para encajar tarjetas, conectores y pantalla.
+-  Informar al cliente de los avances.
 
 ## Herramientas de software utilizadas
 
-- **Diseño electrónico:** Kicad .
-- **Simulaciones:** Proteus.
-- **Programación:** Microchip Studio.
-- **Documentación**: Microsoft Word, Power Point. 
+- **Diseño CAD:** Inventor .
+- **Documentación**: Inkscape,  Corel Draw, Microsoft Word. 
 
 ## Dificultades
 
-- Poco tiempo de entrega.
-- Investigación extensa de parte del equipo de trabajo.
-- Soldadura de componentes manualmente.
-- Documentación extensa por cada tarjeta.
-- Coordinación con estudiantes de ingeniería para pruebas.
+- Morfología de la caja poco amigable para modificación.
+- Modificación laboriosa.
+- Pocos servicios que manejan corte láser con gas.
+- Poco espacio para encaje de componentes.
 
 ## Fotos
-Layout del PCB
-![layout](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto4_Modular-PCBs/Modulo_Principal_Layout.png?raw=true)
+Diseño CAD
+![diseno cad](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto3_Case/Case_modelado.jpeg?raw=true)
 -
-Vista general de la targeta en Kicad
-![vista general mcu](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto4_Modular-PCBs/Modulo_Principal.png?raw=true)
+Vista interna del equipo
+![vista interna](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto3_Case/Case_interno.jpeg?raw=true)
 -
-Total de tarjetas diseñadas
-![tarjetas](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto4_Modular-PCBs/TarjetasFisicas.png?raw=true)
+Vista superior
+![superior](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto3_Case/Case_pantalla.jpeg?raw=true)
 -
+Vista conectores
+![vista conectores](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto3_Case/Case_conectores.jpeg?raw=true)
