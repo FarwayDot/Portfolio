@@ -1,11 +1,11 @@
 # Proyecto 1: Controlador para aires acondicionados
 
-## Descripción general
+## :notebook: Descripción general
 Diseño y fabricación de PCBs para el control de aires acondicionados con la finalidad de ahorrar energía y mantener la supervisión de los equipos en la nube.
 El equipo de trabajo consiste un un programados y dos diseñadores electrónicos.
 Se piden dos diseños de PCBs con un tiempo total para entrega de 6 meses.
 
-## Aporte
+## :white_check_mark: Aporte
 Los aportes realizados en el presente proyecto son los siguientes:
 -  Diseño de una de las dos PCBs siguientes características:
 	- Diseño de dos capas 
@@ -21,21 +21,21 @@ Los aportes realizados en el presente proyecto son los siguientes:
 - Redacción de manuales y documentación del proceso de fabricación.
 - Coordinación de reuniones para revisión de diseño.
 
-## Herramientas de software utilizadas
+## :hammer_and_wrench: Herramientas de software utilizadas
 
 - **Diseño electrónico:** Altium designer.
 - **Simulaciones:** Tina TI, LT Spice, Matlab.
 - **Programación:** STMCubeIDE.
 - **Documentación**: Overleaf-Latex, Microsoft Word, Drawio. 
 
-## Dificultades
+## :triangular_flag_on_post: Dificultades
 
 - Rediseño de las entradas digitales para el rango de voltaje de activación deseado.
 - Tamaño de tarjeta limitado por espacio del tablero donde se realiza la instalación.
 - Cambios a mitad de proyecto por nuevos requerimientos, lo que provoca rediseñar y dimensionar la tarjeta.
 - Coordinación con proveedores de servicio.
 
-## Fotos
+## :star2: Fotos
 Layout del PCB
 ![Layout](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto1_Controller-For-Air-Conditioners/Proyecto1_Controller-For-Air-Conditioners_TopViewLayout.png?raw=true)
 -
