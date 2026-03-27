@@ -33,7 +33,9 @@ Se crean ejercicios base para utilizar en conjunto con las tarjetas apoyados con
 - Coordinación con estudiantes de ingeniería para pruebas.
 
 ## Fotos
-Layout del PCB
+
+Layout del PCB <br />
+&nbsp;
 ![layout](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto4_Modular-PCBs/Modulo_Principal_Layout.png?raw=true)
 -
 Vista general de la targeta en Kicad
@@ -42,3 +44,4 @@ Vista general de la targeta en Kicad
 Total de tarjetas diseñadas
 ![tarjetas](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto4_Modular-PCBs/TarjetasFisicas.png?raw=true)
 -
+
