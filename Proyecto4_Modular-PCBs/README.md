@@ -1,11 +1,11 @@
 # Proyecto 4: Tarjetas modulares para clases de microcontroladores
 
-## Descripción general
+## :notebook: Descripción general
 Proyecto elaborado para el uso de tarjetas modulares dentro de las clases de ingeniería electrónica en la UTP.
 Los diseños se utilizan para apoyar a los docentes y estudiantes a lo largo de un curso completo en microcontroladores.
 Se crean ejercicios base para utilizar en conjunto con las tarjetas apoyados con una interfaz de usuario.
 
-## Aporte
+## :white_check_mark: Aporte
 - Investigación de enfoques de diseño y temas usuales dentro del ámbito estudiantil.
 - Coordinación de reuniones.
 - Diseño de tarjetas bajo un enfoque modular con las siguientes características:
@@ -17,14 +17,14 @@ Se crean ejercicios base para utilizar en conjunto con las tarjetas apoyados con
 - Elaboración de un plan de estudio.
 - Redacción de manuales.
 
-## Herramientas de software utilizadas
+## :hammer_and_wrench: Herramientas de software utilizadas
 
 - **Diseño electrónico:** Kicad .
 - **Simulaciones:** Proteus.
 - **Programación:** Microchip Studio.
 - **Documentación**: Microsoft Word, Power Point. 
 
-## Dificultades
+## :triangular_flag_on_post: Dificultades
 
 - Poco tiempo de entrega.
 - Investigación extensa de parte del equipo de trabajo.
@@ -32,7 +32,7 @@ Se crean ejercicios base para utilizar en conjunto con las tarjetas apoyados con
 - Documentación extensa por cada tarjeta.
 - Coordinación con estudiantes de ingeniería para pruebas.
 
-## Fotos
+## :star2: Fotos
 
 Layout del PCB <br />
 &nbsp;

@@ -1,6 +1,6 @@
 # Proyecto 6: Controlador de equipos vía Ethernet
 
-## Descripción general
+## :notebook: Descripción general
 Tarjeta diseñada para el control de motores y valvulas junto a la adquisición de celdas de carga y sensores NAMUR.
 Utiliza un microcontrolador STM32F407VGTx que se encargará de gestionar la comunicación entre el equipo y el PC.
 El diseño se realizó en 2 capas por pedido del cliente.

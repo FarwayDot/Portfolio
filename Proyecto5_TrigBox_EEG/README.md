@@ -1,12 +1,12 @@
 # Proyecto 5: Equipo adaptado (TrigBox) para sincronización de EEG
 
-## Descripción general
+## :notebook: Descripción general
 Proyecto que consistió en la adaptación de un equipo médico utilizado en laboratorios para la realización de pruebas de EEG.
 La tarjeta consistió de un microcontrolador (STM32F030F4P) para la adquisición de señales análogcas y digitales. 
 La señal de salida era del tipo TTL y se utilizaba para la sincronización con la PC que se encargaba de la grabación de los datos.
 
 
-## Aporte
+## :white_check_mark: Aporte
 - Diseño de la tarjeta PCB en Kicad, cumpliendo con las normas estrictas de diseño para el cumplimiento de los requisitos de seguridad.
 - Diseño de la carcasa en Autodesk Inventor, integrando la tarjeta PCB.
 - Diseño gráfico del sticker para la presentación del producto final.
@@ -15,7 +15,7 @@ La señal de salida era del tipo TTL y se utilizaba para la sincronización con 
 - Pruebas en físico y armado del producto final.
 - Impresión 3D para sensores.
 
-## Herramientas de software utilizadas
+## :hammer_and_wrench: Herramientas de software utilizadas
 
 - **Diseño electrónico:** Kicad .
 - **Simulaciones:** TinaTI.
@@ -24,14 +24,14 @@ La señal de salida era del tipo TTL y se utilizaba para la sincronización con 
 - **Impresión:** Creality Printer.
 - **Diseño gráfico**: Inkscape.
 
-## Dificultades
+## :triangular_flag_on_post: Dificultades
 
 - Trabajo de mecanizado manual.
 - Acondicionamiento de las señales de entrada.
 - Concordancia entre tarjeta PCB y carcasa.
 - Escaza documentación.
 
-## Fotos
+## :star2: Fotos
 Layout del PCB <br />
 &nbsp;
 ![layout](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto5_TrigBox_EEG/EEG_Layout.png?raw=true)
