@@ -27,7 +27,8 @@ Este portafolio contiene una selección de proyectos profesionales y personales 
 - [Proyecto 2 – IMU para control de perforador en mina](./Proyecto2_Titulo)
 - [Proyecto 3 – Armado de carcasa para equipo electrónico](./Proyecto3_Case)
 - [Proyecto 4 – Modulos para clases de ingeniería](./Proyecto4_Modular-PCBs)
-- [Proyecto 5 – Equipo adaptado (TrigBox) para sincronización de EEG ](./Proyecto5_TrigBox_EEG)
+- [Proyecto 5 – Equipo adaptado (TrigBox) para sincronización de EEG](./Proyecto5_TrigBox_EEG)
+- [Proyecto 6 – Controlador de equipos vía Ethernet](./Proyecto6_Holg)
 
 **Nota**: No se incluyen esquemáticos como protección a la propiedad intelectual del cliente y evitar futuros problemas por la exposición del producto final.
 
