@@ -32,7 +32,8 @@ La señal de salida era del tipo TTL y se utilizaba para la sincronización con 
 - Escaza documentación.
 
 ## Fotos
-Layout del PCB
+Layout del PCB <br />
+&nbsp;
 ![layout](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto5_TrigBox_EEG/EEG_Layout.png?raw=true)
 -
 Vista general de la targeta en Kicad

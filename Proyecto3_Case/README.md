@@ -24,7 +24,8 @@ Se debe entregar el producto modelado, costos de fabricación y documentación d
 - Poco espacio para encaje de componentes.
 
 ## Fotos
-Diseño CAD
+Diseño CAD <br />
+&nbsp;
 ![diseno cad](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto3_Case/Case_modelado.jpeg?raw=true)
 -
 Vista interna del equipo
