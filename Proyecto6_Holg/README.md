@@ -37,5 +37,5 @@ Tarjeta Kicad
 ![tarjeta kicad](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto6_Holg/HolgCtrl_PCB2.png?raw=true)
 -
 Tarjeta en Físico
-![tarjetas fisica](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto6_Holg/HolgCtrl_Fisico.png?raw=true)
+![tarjetas fisica](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto6_Holg/HolgCtrl_Fisico.jpeg?raw=true)
 -
