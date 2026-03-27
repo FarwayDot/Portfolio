@@ -34,8 +34,8 @@ Layout Top
 ![layout bottom](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto6_Holg/HolgCtrl_Bottom.png?raw=true)
 -
 Tarjeta Kicad
-![tarjetas](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto6_Holg/HolgCtrl_PCB2.png?raw=true)
+![tarjeta kicad](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto6_Holg/HolgCtrl_PCB2.png?raw=true)
 -
 Tarjeta en Físico
-![tarjetas](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto5_TrigBox_EEG/EEG_Físico.jpeg?raw=true)
+![tarjetas fisica](https://github.com/FarwayDot/Portfolio/blob/main/Proyecto6_Holg/HolgCtrl_Fisico.png?raw=true)
 -
