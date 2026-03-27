@@ -24,7 +24,7 @@ Este portafolio contiene una selección de proyectos profesionales y personales 
 ## :rocket: Proyectos incluidos
 
 - [Proyecto 1 – Controlador para aires acondicionados](./Proyecto1_Controller-For-Air-Conditioners)
-- [Proyecto 2 – IMU para control de perforador en mina](./Proyecto2_Titulo)
+-  Proyecto 2 – IMU para control de perforador en mina (Adquiriendo información)
 - [Proyecto 3 – Armado de carcasa para equipo electrónico](./Proyecto3_Case)
 - [Proyecto 4 – Modulos para clases de ingeniería](./Proyecto4_Modular-PCBs)
 - [Proyecto 5 – Equipo adaptado (TrigBox) para sincronización de EEG](./Proyecto5_TrigBox_EEG)
